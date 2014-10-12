@@ -1,8 +1,8 @@
-Dockerfile for SopCast command-line tool
-----------------------------------------
+Dockerfile for consuming SopCast broadcasts 
+-------------------------------------------
 
 
-Stream SopCast broadcasts to your favorite media player using a Docker 
+Consume SopCast broadcasts with your favorite media player using a Docker 
 container.
 
 
